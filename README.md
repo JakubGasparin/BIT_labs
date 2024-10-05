@@ -1,1 +1,1 @@
-# BIT_labs
+Repository for my BIT subject lab works.
